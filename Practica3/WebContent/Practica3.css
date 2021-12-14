@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+h1 {
+	text-align: center;
+	color: yellow;
+	background-color: blue;
+	font-family: 'Potta One', cursive;
+	width: 700px
+}
+
+.primero {
+	font-family: 'Potta One', cursive;
+	float:left;
+	width: 30%;
+	background-color: cyan;
+	
+}
+
+.segundo {
+	font-family: 'Potta One', cursive;
+	color: yellow;
+	background-color: black;
+	display: inline;
+	line-height: 200%
+}
+
+.bajo {
+	margin-top: 50px;
+}
+
+.tercero {
+	font-family: 'Coda Caption', sans-serif;
+
+}
+
+
+.cuarto {
+	font-family: 'Yusei Magic', sans-serif;
+}
